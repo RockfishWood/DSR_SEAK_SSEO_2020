@@ -18,11 +18,11 @@ Directed commercial fisheries are held in the four management areas (EYKT, NSEO,
 
     Directed commercial fishery
     Bycatch from groundfish fisheries
-        Halibut IFQ
-        Sablefish IFQ
-        Lingcod
-        Pacific cod
-        Black rockfish
+        - Halibut IFQ
+        - Sablefish IFQ
+        - Lingcod
+        - Pacific cod
+        - Black rockfish
     Bycatch in salmon troll fishery
 
 **Sport Fishery**
